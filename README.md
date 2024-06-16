@@ -24,12 +24,5 @@ O projeto está estruturado da seguinte forma:
 - **`README.md`**: Este arquivo, contendo informações sobre o projeto e instruções de uso.
 - **`.gitignore`**: Arquivo de configuração do Git para ignorar arquivos e diretórios específicos.
 
-## Pré-requisitos
-
-Para executar este projeto, você precisará de:
-- Java Development Kit (JDK) instalado
-- Um ambiente de desenvolvimento Java (como IntelliJ IDEA, Eclipse, NetBeans) ou o uso de linha de comando.
-
-
 ## Contribuições 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um Pull Request com melhorias, correções de bugs ou novas funcionalidades.
